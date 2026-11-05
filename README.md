@@ -1,24 +1,34 @@
-### Security researcher — automated vulnerability analysis
+# mutsuumii
 
-I build tooling that scans open-source software for security issues, generates patches, and publishes audit reports.
+Security researcher. I find vulnerabilities in open source code and document them.
 
-**Current project:** Static analysis pipeline covering CWE-89, CWE-78, CWE-22, CWE-502, CWE-798 across Python, C, C++, and JavaScript codebases. Each audit produces a full report with working code patches.
+Automated daily audits powered by static analysis + Gemini AI.
+Each report includes findings, patches, and CWE classification.
+
+## Latest audits
+
+| Repo | Description | Date |
+|------|-------------|------|
+| [audit-sagent-20261105](https://github.com/mutsuumii/audit-sagent-20261105) | Security audit of rekursiv-ai/sagent — 1 vulnerabilities fou | 2026-11-05 |
+| [audit-parallel-web-tools-20261105](https://github.com/mutsuumii/audit-parallel-web-tools-20261105) | Security audit of parallel-web/parallel-web-tools — 21 vulne | 2026-11-05 |
+| [audit-anx-calibre-manager-20261105](https://github.com/mutsuumii/audit-anx-calibre-manager-20261105) | Security audit of ptbsare/anx-calibre-manager — 50 vulnerabi | 2026-11-05 |
+| [audit-substrata-20261105](https://github.com/mutsuumii/audit-substrata-20261105) | Security audit of glaretechnologies/substrata — 1 vulnerabil | 2026-11-05 |
+| [audit-starfyre-20261105](https://github.com/mutsuumii/audit-starfyre-20261105) | Security audit of sparckles/starfyre - 1 vulnerabilities fou | 2026-11-05 |
+| [audit-muffin-20261105](https://github.com/mutsuumii/audit-muffin-20261105) | Security audit of klen/muffin - 1 vulnerabilities found and  | 2026-11-05 |
+| [audit-lk-20261105](https://github.com/mutsuumii/audit-lk-20261105) | Security audit of NatLabRockies/lk - 23 vulnerabilities foun | 2026-11-05 |
+| [audit-mini-c-compiler-20261105](https://github.com/mutsuumii/audit-mini-c-compiler-20261105) | Security audit of erfnzdeh/mini-c-compiler - 1 vulnerabiliti | 2026-11-05 |
+
+## Stats
+
+- Audits published: 8
+- Last run: 2026-11-05 10:03 UTC
+
+## Tools
+
+- Static analysis: custom pattern scanner (Python, C, JavaScript)
+- AI analysis: Gemini 2.0 Flash
+- Languages covered: Python, C/C++, JavaScript/TypeScript
 
 ---
 
-**Languages:** Python · Rust · C++
-**Focus:** SAST · vulnerability research · patch generation
-**Tools:** static analysis · CWE mapping · automated reporting
-
----
-
-#### Recent audits
-
-| Repository | Language | Findings |
-|------------|----------|----------|
-| [audit-lk-20261105](https://github.com/mutsuumii/audit-lk-20261105) | C/C++ | 23 — buffer overflow, format string, insecure rand |
-| [audit-muffin-20261105](https://github.com/mutsuumii/audit-muffin-20261105) | Python | 1 — code injection via eval() |
-| [audit-starfyre-20261105](https://github.com/mutsuumii/audit-starfyre-20261105) | Python | 1 — code injection via eval() |
-| [audit-mini-c-compiler-20261105](https://github.com/mutsuumii/audit-mini-c-compiler-20261105) | Python | 1 — code injection via eval() |
-
-*New audits published daily.*
+*Reports are generated automatically. Contact via GitHub issues.*
