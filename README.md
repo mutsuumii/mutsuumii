@@ -1,16 +1,24 @@
-## Hi there 👋
+### Security researcher — automated vulnerability analysis
 
-<!--
-**mutsuumii/mutsuumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tooling that scans open-source software for security issues, generates patches, and publishes audit reports.
 
-Here are some ideas to get you started:
+**Current project:** Static analysis pipeline covering CWE-89, CWE-78, CWE-22, CWE-502, CWE-798 across Python, C, C++, and JavaScript codebases. Each audit produces a full report with working code patches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages:** Python · Rust · C++
+**Focus:** SAST · vulnerability research · patch generation
+**Tools:** static analysis · CWE mapping · automated reporting
+
+---
+
+#### Recent audits
+
+| Repository | Language | Findings |
+|------------|----------|----------|
+| [audit-lk-20261105](https://github.com/mutsuumii/audit-lk-20261105) | C/C++ | 23 — buffer overflow, format string, insecure rand |
+| [audit-muffin-20261105](https://github.com/mutsuumii/audit-muffin-20261105) | Python | 1 — code injection via eval() |
+| [audit-starfyre-20261105](https://github.com/mutsuumii/audit-starfyre-20261105) | Python | 1 — code injection via eval() |
+| [audit-mini-c-compiler-20261105](https://github.com/mutsuumii/audit-mini-c-compiler-20261105) | Python | 1 — code injection via eval() |
+
+*New audits published daily.*
