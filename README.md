@@ -9,6 +9,8 @@ Each report includes findings, patches, and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-guns.lol-username-checker-20261107](https://github.com/mutsuumii/audit-guns.lol-username-checker-20261107) | Security audit of efekrbas/guns.lol-username-checker — 1 vul | 2026-11-07 |
+| [audit-sagent-20261107](https://github.com/mutsuumii/audit-sagent-20261107) | Security audit of rekursiv-ai/sagent — 2 vulnerabilities fou | 2026-11-07 |
 | [audit-ApiLogicServer-src-20261106](https://github.com/mutsuumii/audit-ApiLogicServer-src-20261106) | Security audit of ApiLogicServer/ApiLogicServer-src — 3 vuln | 2026-11-06 |
 | [audit-flask-uwsgi-websocket-20261106](https://github.com/mutsuumii/audit-flask-uwsgi-websocket-20261106) | Security audit of zeekay/flask-uwsgi-websocket — 1 vulnerabi | 2026-11-06 |
 | [audit-sagent-20261105](https://github.com/mutsuumii/audit-sagent-20261105) | Security audit of rekursiv-ai/sagent — 1 vulnerabilities fou | 2026-11-05 |
@@ -22,8 +24,8 @@ Each report includes findings, patches, and CWE classification.
 
 ## Stats
 
-- Audits published: 10
-- Last run: 2026-11-06 10:01 UTC
+- Audits published: 12
+- Last run: 2026-11-07 10:01 UTC
 
 ## Tools
 
