@@ -9,6 +9,8 @@ Each report includes findings, patches, and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-discogs-oauth-example-20261108](https://github.com/mutsuumii/audit-discogs-oauth-example-20261108) | Security audit of jesseward/discogs-oauth-example — 2 vulner | 2026-11-08 |
+| [audit-python-sdk-20261108](https://github.com/mutsuumii/audit-python-sdk-20261108) | Security audit of descope/python-sdk — 3 vulnerabilities fou | 2026-11-08 |
 | [audit-guns.lol-username-checker-20261107](https://github.com/mutsuumii/audit-guns.lol-username-checker-20261107) | Security audit of efekrbas/guns.lol-username-checker — 1 vul | 2026-11-07 |
 | [audit-sagent-20261107](https://github.com/mutsuumii/audit-sagent-20261107) | Security audit of rekursiv-ai/sagent — 2 vulnerabilities fou | 2026-11-07 |
 | [audit-ApiLogicServer-src-20261106](https://github.com/mutsuumii/audit-ApiLogicServer-src-20261106) | Security audit of ApiLogicServer/ApiLogicServer-src — 3 vuln | 2026-11-06 |
@@ -24,8 +26,8 @@ Each report includes findings, patches, and CWE classification.
 
 ## Stats
 
-- Audits published: 12
-- Last run: 2026-11-07 10:01 UTC
+- Audits published: 14
+- Last run: 2026-11-08 10:02 UTC
 
 ## Tools
 
