@@ -1,14 +1,17 @@
 # mutsuumii
 
-Security researcher. I find vulnerabilities in open source code and document them.
+Security researcher. I audit vulnerabilities in widely-used open source systems.
 
-Automated daily audits powered by static analysis + Gemini AI.
-Each report includes findings, patches, and CWE classification.
+Focus areas: OS components, network daemons, cryptographic libraries, web frameworks.
+Each report covers findings with working patches and CWE classification.
 
 ## Latest audits
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-socket.io-20261109](https://github.com/mutsuumii/audit-socket.io-20261109) | Security audit of socketio/socket.io (63,234 stars) — 3 vuln | 2026-11-09 |
+| [audit-vibora-20261109](https://github.com/mutsuumii/audit-vibora-20261109) | Security audit of vibora-io/vibora (5,579 stars) — 1 vulnera | 2026-11-09 |
+| [audit-certbot-20261109](https://github.com/mutsuumii/audit-certbot-20261109) | Security audit of certbot/certbot (33,314 stars) — 5 vulnera | 2026-11-09 |
 | [audit-discogs-oauth-example-20261108](https://github.com/mutsuumii/audit-discogs-oauth-example-20261108) | Security audit of jesseward/discogs-oauth-example — 2 vulner | 2026-11-08 |
 | [audit-python-sdk-20261108](https://github.com/mutsuumii/audit-python-sdk-20261108) | Security audit of descope/python-sdk — 3 vulnerabilities fou | 2026-11-08 |
 | [audit-guns.lol-username-checker-20261107](https://github.com/mutsuumii/audit-guns.lol-username-checker-20261107) | Security audit of efekrbas/guns.lol-username-checker — 1 vul | 2026-11-07 |
@@ -26,15 +29,22 @@ Each report includes findings, patches, and CWE classification.
 
 ## Stats
 
-- Audits published: 14
-- Last run: 2026-11-08 10:02 UTC
+- Audits published: 17
+- Last updated: 2026-11-09 10:04 UTC
 
-## Tools
+## Scope
 
-- Static analysis: custom pattern scanner (Python, C, JavaScript)
-- AI analysis: Gemini 2.0 Flash
-- Languages covered: Python, C/C++, JavaScript/TypeScript
+- Operating system components and system utilities
+- Network servers: HTTP, SSH, TLS/SSL, proxies
+- Parsers and media processing libraries
+- Web frameworks and application servers
+- Languages: C/C++, Python, JavaScript
+
+## Methodology
+
+Pattern-based static analysis of source code followed by manual review of flagged regions.
+Coverage: memory safety, integer arithmetic, format strings, injection, cryptography, privilege handling.
 
 ---
 
-*Reports are generated automatically. Contact via GitHub issues.*
+*Open an issue to request an audit.*
