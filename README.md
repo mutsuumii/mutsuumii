@@ -9,6 +9,9 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-express-20261111](https://github.com/mutsuumii/audit-express-20261111) | Security audit of expressjs/express (69,622 stars) — 4 vulne | 2026-11-11 |
+| [audit-socket.io-20261111](https://github.com/mutsuumii/audit-socket.io-20261111) | Security audit of socketio/socket.io (63,243 stars) — 3 vuln | 2026-11-11 |
+| [audit-wolfssl-20261111](https://github.com/mutsuumii/audit-wolfssl-20261111) | Security audit of wolfSSL/wolfssl (2,986 stars) — 192 vulner | 2026-11-11 |
 | [audit-server-20261110](https://github.com/mutsuumii/audit-server-20261110) | Security audit of gotify/server (16,195 stars) — 3 vulnerabi | 2026-11-10 |
 | [audit-tornado-20261110](https://github.com/mutsuumii/audit-tornado-20261110) | Security audit of tornadoweb/tornado (22,165 stars) — 13 vul | 2026-11-10 |
 | [audit-ws-20261110](https://github.com/mutsuumii/audit-ws-20261110) | Security audit of websockets/ws (22,826 stars) — 34 vulnerab | 2026-11-10 |
@@ -26,14 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-anx-calibre-manager-20261105](https://github.com/mutsuumii/audit-anx-calibre-manager-20261105) | Security audit of ptbsare/anx-calibre-manager — 50 vulnerabi | 2026-11-05 |
 | [audit-substrata-20261105](https://github.com/mutsuumii/audit-substrata-20261105) | Security audit of glaretechnologies/substrata — 1 vulnerabil | 2026-11-05 |
 | [audit-starfyre-20261105](https://github.com/mutsuumii/audit-starfyre-20261105) | Security audit of sparckles/starfyre - 1 vulnerabilities fou | 2026-11-05 |
-| [audit-muffin-20261105](https://github.com/mutsuumii/audit-muffin-20261105) | Security audit of klen/muffin - 1 vulnerabilities found and  | 2026-11-05 |
-| [audit-lk-20261105](https://github.com/mutsuumii/audit-lk-20261105) | Security audit of NatLabRockies/lk - 23 vulnerabilities foun | 2026-11-05 |
-| [audit-mini-c-compiler-20261105](https://github.com/mutsuumii/audit-mini-c-compiler-20261105) | Security audit of erfnzdeh/mini-c-compiler - 1 vulnerabiliti | 2026-11-05 |
 
 ## Stats
 
-- Audits published: 20
-- Last updated: 2026-11-10 10:08 UTC
+- Audits published: 23
+- Last updated: 2026-11-11 10:27 UTC
 
 ## Scope
 
