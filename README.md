@@ -9,6 +9,9 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-openssl-20261112](https://github.com/mutsuumii/audit-openssl-20261112) | Security audit of openssl/openssl (31,424 stars) — 474 vulne | 2026-11-12 |
+| [audit-Cosmos-20261112](https://github.com/mutsuumii/audit-Cosmos-20261112) | Security audit of CosmosOS/Cosmos (3,236 stars) — 5 vulnerab | 2026-11-12 |
+| [audit-aos-ce-20261112](https://github.com/mutsuumii/audit-aos-ce-20261112) | Security audit of unicity-aos/aos-ce (8,458 stars) — 1 vulne | 2026-11-12 |
 | [audit-express-20261111](https://github.com/mutsuumii/audit-express-20261111) | Security audit of expressjs/express (69,622 stars) — 4 vulne | 2026-11-11 |
 | [audit-socket.io-20261111](https://github.com/mutsuumii/audit-socket.io-20261111) | Security audit of socketio/socket.io (63,243 stars) — 3 vuln | 2026-11-11 |
 | [audit-wolfssl-20261111](https://github.com/mutsuumii/audit-wolfssl-20261111) | Security audit of wolfSSL/wolfssl (2,986 stars) — 192 vulner | 2026-11-11 |
@@ -26,14 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-flask-uwsgi-websocket-20261106](https://github.com/mutsuumii/audit-flask-uwsgi-websocket-20261106) | Security audit of zeekay/flask-uwsgi-websocket — 1 vulnerabi | 2026-11-06 |
 | [audit-sagent-20261105](https://github.com/mutsuumii/audit-sagent-20261105) | Security audit of rekursiv-ai/sagent — 1 vulnerabilities fou | 2026-11-05 |
 | [audit-parallel-web-tools-20261105](https://github.com/mutsuumii/audit-parallel-web-tools-20261105) | Security audit of parallel-web/parallel-web-tools — 21 vulne | 2026-11-05 |
-| [audit-anx-calibre-manager-20261105](https://github.com/mutsuumii/audit-anx-calibre-manager-20261105) | Security audit of ptbsare/anx-calibre-manager — 50 vulnerabi | 2026-11-05 |
-| [audit-substrata-20261105](https://github.com/mutsuumii/audit-substrata-20261105) | Security audit of glaretechnologies/substrata — 1 vulnerabil | 2026-11-05 |
-| [audit-starfyre-20261105](https://github.com/mutsuumii/audit-starfyre-20261105) | Security audit of sparckles/starfyre - 1 vulnerabilities fou | 2026-11-05 |
 
 ## Stats
 
-- Audits published: 23
-- Last updated: 2026-11-11 10:27 UTC
+- Audits published: 26
+- Last updated: 2026-11-12 10:57 UTC
 
 ## Scope
 
