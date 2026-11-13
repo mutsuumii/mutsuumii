@@ -9,6 +9,9 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-httpd-20261113](https://github.com/mutsuumii/audit-httpd-20261113) | Security audit of apache/httpd (4,051 stars) — 109 vulnerabi | 2026-11-13 |
+| [audit-django-rest-framework-20261113](https://github.com/mutsuumii/audit-django-rest-framework-20261113) | Security audit of encode/django-rest-framework (30,232 stars | 2026-11-13 |
+| [audit-glib-20261113](https://github.com/mutsuumii/audit-glib-20261113) | Security audit of GNOME/glib (1,775 stars) — 401 vulnerabili | 2026-11-13 |
 | [audit-openssl-20261112](https://github.com/mutsuumii/audit-openssl-20261112) | Security audit of openssl/openssl (31,424 stars) — 474 vulne | 2026-11-12 |
 | [audit-Cosmos-20261112](https://github.com/mutsuumii/audit-Cosmos-20261112) | Security audit of CosmosOS/Cosmos (3,236 stars) — 5 vulnerab | 2026-11-12 |
 | [audit-aos-ce-20261112](https://github.com/mutsuumii/audit-aos-ce-20261112) | Security audit of unicity-aos/aos-ce (8,458 stars) — 1 vulne | 2026-11-12 |
@@ -26,14 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-guns.lol-username-checker-20261107](https://github.com/mutsuumii/audit-guns.lol-username-checker-20261107) | Security audit of efekrbas/guns.lol-username-checker — 1 vul | 2026-11-07 |
 | [audit-sagent-20261107](https://github.com/mutsuumii/audit-sagent-20261107) | Security audit of rekursiv-ai/sagent — 2 vulnerabilities fou | 2026-11-07 |
 | [audit-ApiLogicServer-src-20261106](https://github.com/mutsuumii/audit-ApiLogicServer-src-20261106) | Security audit of ApiLogicServer/ApiLogicServer-src — 3 vuln | 2026-11-06 |
-| [audit-flask-uwsgi-websocket-20261106](https://github.com/mutsuumii/audit-flask-uwsgi-websocket-20261106) | Security audit of zeekay/flask-uwsgi-websocket — 1 vulnerabi | 2026-11-06 |
-| [audit-sagent-20261105](https://github.com/mutsuumii/audit-sagent-20261105) | Security audit of rekursiv-ai/sagent — 1 vulnerabilities fou | 2026-11-05 |
-| [audit-parallel-web-tools-20261105](https://github.com/mutsuumii/audit-parallel-web-tools-20261105) | Security audit of parallel-web/parallel-web-tools — 21 vulne | 2026-11-05 |
 
 ## Stats
 
-- Audits published: 26
-- Last updated: 2026-11-12 10:57 UTC
+- Audits published: 29
+- Last updated: 2026-11-13 11:04 UTC
 
 ## Scope
 
