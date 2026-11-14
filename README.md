@@ -9,6 +9,9 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-memcached-20261114](https://github.com/mutsuumii/audit-memcached-20261114) | Security audit of memcached/memcached (14,302 stars) — 203 v | 2026-11-14 |
+| [audit-wagtail-20261114](https://github.com/mutsuumii/audit-wagtail-20261114) | Security audit of wagtail/wagtail (20,726 stars) — 17 vulner | 2026-11-14 |
+| [audit-django-cms-20261114](https://github.com/mutsuumii/audit-django-cms-20261114) | Security audit of django-cms/django-cms (10,680 stars) — 17  | 2026-11-14 |
 | [audit-httpd-20261113](https://github.com/mutsuumii/audit-httpd-20261113) | Security audit of apache/httpd (4,051 stars) — 109 vulnerabi | 2026-11-13 |
 | [audit-django-rest-framework-20261113](https://github.com/mutsuumii/audit-django-rest-framework-20261113) | Security audit of encode/django-rest-framework (30,232 stars | 2026-11-13 |
 | [audit-glib-20261113](https://github.com/mutsuumii/audit-glib-20261113) | Security audit of GNOME/glib (1,775 stars) — 401 vulnerabili | 2026-11-13 |
@@ -26,14 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-certbot-20261109](https://github.com/mutsuumii/audit-certbot-20261109) | Security audit of certbot/certbot (33,314 stars) — 5 vulnera | 2026-11-09 |
 | [audit-discogs-oauth-example-20261108](https://github.com/mutsuumii/audit-discogs-oauth-example-20261108) | Security audit of jesseward/discogs-oauth-example — 2 vulner | 2026-11-08 |
 | [audit-python-sdk-20261108](https://github.com/mutsuumii/audit-python-sdk-20261108) | Security audit of descope/python-sdk — 3 vulnerabilities fou | 2026-11-08 |
-| [audit-guns.lol-username-checker-20261107](https://github.com/mutsuumii/audit-guns.lol-username-checker-20261107) | Security audit of efekrbas/guns.lol-username-checker — 1 vul | 2026-11-07 |
-| [audit-sagent-20261107](https://github.com/mutsuumii/audit-sagent-20261107) | Security audit of rekursiv-ai/sagent — 2 vulnerabilities fou | 2026-11-07 |
-| [audit-ApiLogicServer-src-20261106](https://github.com/mutsuumii/audit-ApiLogicServer-src-20261106) | Security audit of ApiLogicServer/ApiLogicServer-src — 3 vuln | 2026-11-06 |
 
 ## Stats
 
-- Audits published: 29
-- Last updated: 2026-11-13 11:04 UTC
+- Audits published: 32
+- Last updated: 2026-11-14 10:30 UTC
 
 ## Scope
 
