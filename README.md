@@ -9,6 +9,9 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-lc3-vm-20261115](https://github.com/mutsuumii/audit-lc3-vm-20261115) | Security audit of justinmeiners/lc3-vm (2,101 stars) — 2 vul | 2026-11-15 |
+| [audit-kvm-guest-drivers-windows-20261115](https://github.com/mutsuumii/audit-kvm-guest-drivers-windows-20261115) | Security audit of virtio-win/kvm-guest-drivers-windows (2,76 | 2026-11-15 |
+| [audit-redis-20261115](https://github.com/mutsuumii/audit-redis-20261115) | Security audit of antirez/redis (169 stars) — 240 vulnerabil | 2026-11-15 |
 | [audit-memcached-20261114](https://github.com/mutsuumii/audit-memcached-20261114) | Security audit of memcached/memcached (14,302 stars) — 203 v | 2026-11-14 |
 | [audit-wagtail-20261114](https://github.com/mutsuumii/audit-wagtail-20261114) | Security audit of wagtail/wagtail (20,726 stars) — 17 vulner | 2026-11-14 |
 | [audit-django-cms-20261114](https://github.com/mutsuumii/audit-django-cms-20261114) | Security audit of django-cms/django-cms (10,680 stars) — 17  | 2026-11-14 |
@@ -26,14 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-ws-20261110](https://github.com/mutsuumii/audit-ws-20261110) | Security audit of websockets/ws (22,826 stars) — 34 vulnerab | 2026-11-10 |
 | [audit-socket.io-20261109](https://github.com/mutsuumii/audit-socket.io-20261109) | Security audit of socketio/socket.io (63,234 stars) — 3 vuln | 2026-11-09 |
 | [audit-vibora-20261109](https://github.com/mutsuumii/audit-vibora-20261109) | Security audit of vibora-io/vibora (5,579 stars) — 1 vulnera | 2026-11-09 |
-| [audit-certbot-20261109](https://github.com/mutsuumii/audit-certbot-20261109) | Security audit of certbot/certbot (33,314 stars) — 5 vulnera | 2026-11-09 |
-| [audit-discogs-oauth-example-20261108](https://github.com/mutsuumii/audit-discogs-oauth-example-20261108) | Security audit of jesseward/discogs-oauth-example — 2 vulner | 2026-11-08 |
-| [audit-python-sdk-20261108](https://github.com/mutsuumii/audit-python-sdk-20261108) | Security audit of descope/python-sdk — 3 vulnerabilities fou | 2026-11-08 |
 
 ## Stats
 
-- Audits published: 32
-- Last updated: 2026-11-14 10:30 UTC
+- Audits published: 35
+- Last updated: 2026-11-15 10:34 UTC
 
 ## Scope
 
