@@ -9,6 +9,7 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-fory-20261116](https://github.com/mutsuumii/audit-fory-20261116) | Security review of apache/fory — 10 issues | 2026-11-16 |
 | [audit-lc3-vm-20261115](https://github.com/mutsuumii/audit-lc3-vm-20261115) | Security audit of justinmeiners/lc3-vm (2,101 stars) — 2 vul | 2026-11-15 |
 | [audit-kvm-guest-drivers-windows-20261115](https://github.com/mutsuumii/audit-kvm-guest-drivers-windows-20261115) | Security audit of virtio-win/kvm-guest-drivers-windows (2,76 | 2026-11-15 |
 | [audit-redis-20261115](https://github.com/mutsuumii/audit-redis-20261115) | Security audit of antirez/redis (169 stars) — 240 vulnerabil | 2026-11-15 |
@@ -28,12 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-tornado-20261110](https://github.com/mutsuumii/audit-tornado-20261110) | Security audit of tornadoweb/tornado (22,165 stars) — 13 vul | 2026-11-10 |
 | [audit-ws-20261110](https://github.com/mutsuumii/audit-ws-20261110) | Security audit of websockets/ws (22,826 stars) — 34 vulnerab | 2026-11-10 |
 | [audit-socket.io-20261109](https://github.com/mutsuumii/audit-socket.io-20261109) | Security audit of socketio/socket.io (63,234 stars) — 3 vuln | 2026-11-09 |
-| [audit-vibora-20261109](https://github.com/mutsuumii/audit-vibora-20261109) | Security audit of vibora-io/vibora (5,579 stars) — 1 vulnera | 2026-11-09 |
 
 ## Stats
 
-- Audits published: 35
-- Last updated: 2026-11-15 10:34 UTC
+- Audits published: 36
+- Last updated: 2026-11-16 07:29 UTC
 
 ## Scope
 
