@@ -9,6 +9,7 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-libexpat-20261117](https://github.com/mutsuumii/audit-libexpat-20261117) | Security review of libexpat/libexpat — 91 issues | 2026-11-17 |
 | [audit-fory-20261116](https://github.com/mutsuumii/audit-fory-20261116) | Security review of apache/fory — 10 issues | 2026-11-16 |
 | [audit-lc3-vm-20261115](https://github.com/mutsuumii/audit-lc3-vm-20261115) | Security audit of justinmeiners/lc3-vm (2,101 stars) — 2 vul | 2026-11-15 |
 | [audit-kvm-guest-drivers-windows-20261115](https://github.com/mutsuumii/audit-kvm-guest-drivers-windows-20261115) | Security audit of virtio-win/kvm-guest-drivers-windows (2,76 | 2026-11-15 |
@@ -28,12 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-server-20261110](https://github.com/mutsuumii/audit-server-20261110) | Security audit of gotify/server (16,195 stars) — 3 vulnerabi | 2026-11-10 |
 | [audit-tornado-20261110](https://github.com/mutsuumii/audit-tornado-20261110) | Security audit of tornadoweb/tornado (22,165 stars) — 13 vul | 2026-11-10 |
 | [audit-ws-20261110](https://github.com/mutsuumii/audit-ws-20261110) | Security audit of websockets/ws (22,826 stars) — 34 vulnerab | 2026-11-10 |
-| [audit-socket.io-20261109](https://github.com/mutsuumii/audit-socket.io-20261109) | Security audit of socketio/socket.io (63,234 stars) — 3 vuln | 2026-11-09 |
 
 ## Stats
 
-- Audits published: 36
-- Last updated: 2026-11-16 09:11 UTC
+- Audits published: 37
+- Last updated: 2026-11-17 09:15 UTC
 
 ## Scope
 
