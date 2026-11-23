@@ -33,7 +33,7 @@ Each report covers findings with working patches and CWE classification.
 ## Stats
 
 - Audits published: 40
-- Last updated: 2026-11-22 09:50 UTC
+- Last updated: 2026-11-23 09:43 UTC
 
 ## Scope
 
