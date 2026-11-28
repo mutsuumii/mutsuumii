@@ -9,6 +9,7 @@ Each report covers findings with working patches and CWE classification.
 
 | Repo | Description | Date |
 |------|-------------|------|
+| [audit-aiohttp-20261128](https://github.com/mutsuumii/audit-aiohttp-20261128) | Security review of aio-libs/aiohttp — 9 issues | 2026-11-28 |
 | [audit-beast-20261120](https://github.com/mutsuumii/audit-beast-20261120) | Security review of boostorg/beast — 10 issues | 2026-11-20 |
 | [audit-caddy-20261120](https://github.com/mutsuumii/audit-caddy-20261120) | Security review of caddyserver/caddy — 2 issues | 2026-11-20 |
 | [audit-frappe-20261119](https://github.com/mutsuumii/audit-frappe-20261119) | Security review of frappe/frappe — 4 issues | 2026-11-19 |
@@ -28,12 +29,11 @@ Each report covers findings with working patches and CWE classification.
 | [audit-aos-ce-20261112](https://github.com/mutsuumii/audit-aos-ce-20261112) | Security audit of unicity-aos/aos-ce (8,458 stars) — 1 vulne | 2026-11-12 |
 | [audit-express-20261111](https://github.com/mutsuumii/audit-express-20261111) | Security audit of expressjs/express (69,622 stars) — 4 vulne | 2026-11-11 |
 | [audit-socket.io-20261111](https://github.com/mutsuumii/audit-socket.io-20261111) | Security audit of socketio/socket.io (63,243 stars) — 3 vuln | 2026-11-11 |
-| [audit-wolfssl-20261111](https://github.com/mutsuumii/audit-wolfssl-20261111) | Security audit of wolfSSL/wolfssl (2,986 stars) — 192 vulner | 2026-11-11 |
 
 ## Stats
 
-- Audits published: 40
-- Last updated: 2026-11-27 10:59 UTC
+- Audits published: 41
+- Last updated: 2026-11-28 08:59 UTC
 
 ## Scope
 
